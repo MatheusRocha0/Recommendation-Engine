@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+   <h3>Recommendation Engine</h3>
+   <div>
+      <form action="/" method="POST">
+         
+         <label for="user_id">User ID</label>
+         <input type="text" id="user_id" name="user_id">
+         <br>
+
+        <label for="item_id">Item ID</label>
+        <input type="text" id="item_id" name="item_id">
+        <br>
+
+        <input type="submit" value="Recommend">
+        <br>
+
+       <h1>{{prediction}}</h1>
+
+      </form>
+   </div>
+
+</body>
+</html>
