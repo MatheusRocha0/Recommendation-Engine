@@ -23,3 +23,5 @@ It is very easy to run the script and test the interface.
 6. Put app.py inside the main folder.
 
 7. Run the script.
+
+8. Access the URL
