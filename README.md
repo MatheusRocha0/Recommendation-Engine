@@ -20,4 +20,6 @@ It is very easy to run the script and test the interface.
 
 5. Put .pkl file inside the main folder.
 
-6. Run the script.
+6. Put app.py inside the main folder.
+
+7. Run the script.
