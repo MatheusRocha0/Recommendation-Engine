@@ -1,4 +1,4 @@
-# Recommendation_Engine
+# Recommendation Engine
 
 In this project, I build a Recommendation System able to predict whether a user is going to like the next movie. 
 
