@@ -4,7 +4,7 @@ In this project, I built a Recommendation System able to predict whether a user 
 
 The main technology used here is the Surprise framework. This library makes the process of building recommendation systems easy.
 
-This model was also deployed in Flask using HTML templates as Front-End with Ngrok keys to allow external machines to access the local application.
+This model was also deployed in Flask using HTML templates as Front-End.
 
 # How To Run the Script
 
