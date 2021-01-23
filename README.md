@@ -5,4 +5,32 @@ In this project, I built a Recommendation System able to predict whether a user 
 
 ## Summary
 
+• Problem Statement
+
+• Data Collection
+
+• Data Cleaning
+
+• Data Analysis
+
+• Recommendation Engine
+
+• Model Evaluation
+
 ## Tools
+
+• Python 3.6.9
+
+• Jupyer Notebook
+
+• Pandas
+
+• Seaborn
+
+• Matplotlib
+
+• NumPy
+
+• Surprise
+
+• Pickle
