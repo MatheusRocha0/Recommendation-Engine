@@ -3,7 +3,7 @@
 
 In this project, I built a Recommendation System able to predict whether a user is going to like the next movie. 
 
-Go to project: https://bit.ly/2YnoMyN
+Go to documentation: https://bit.ly/2YnoMyN
 
 ## Summary
 
