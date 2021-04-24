@@ -10,8 +10,7 @@ app = Flask(__name__)
 
 @app.route("/", methods = ["GET", "POST"])
 def predict():
-   return "Hello"
-"""
+   
   test_json = request.get_json()
 
   if test_json:
@@ -25,7 +24,6 @@ def predict():
 
   df_raw["user_rating"] = preds
   return df_raw.to_json(orient = "records")
-"""
 
 if __name__ == "__main__":
   app.run()
