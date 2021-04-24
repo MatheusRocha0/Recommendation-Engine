@@ -2,6 +2,7 @@
 from flask import Flask, request
 import pickle
 import pandas as pd
+import surprise
 
 engine = pickle.load(open("model.pkl", "rb"))
 
