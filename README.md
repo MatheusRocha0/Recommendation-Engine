@@ -1,9 +1,11 @@
 # Recommendation Engine
 ![Image](recommendation_system_image.png)
 
-In this project, I built a Recommendation System able to predict whether a user is going to like the next movie. 
+In this project, I built a Recommendation System able to predict whether a user is going to like the next movie and also created and API to get predictions. 
 
 Go to documentation: https://bit.ly/2YnoMyN
+
+API: https://bit.ly/3gBRLJv
 
 ## Summary
 
@@ -18,6 +20,10 @@ Go to documentation: https://bit.ly/2YnoMyN
 • Recommendation Engine
 
 • Model Evaluation
+
+• API creation
+
+• API requests
 
 ## Tools
 
@@ -36,3 +42,7 @@ Go to documentation: https://bit.ly/2YnoMyN
 • Surprise
 
 • Pickle
+
+• Flask
+
+• Heroku
