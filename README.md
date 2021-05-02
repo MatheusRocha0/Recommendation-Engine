@@ -3,7 +3,7 @@
 
 In this project, I built a Recommendation System able to predict whether a user is going to like the next movie and also created and API to get predictions. 
 
-Go to documentation: https://bit.ly/2YnoMyN
+Go to documentation: https://bit.ly/3t9hGuB
 
 API: https://bit.ly/3gBRLJv
 
